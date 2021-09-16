@@ -1,2 +1,5 @@
 A journalist ask a programmer: what makes bad code?
 No comment
+
+iIf having a coffee in the morning doesn't wake you up, try delecting a table and a production database
+ instead.
